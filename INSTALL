@@ -1,0 +1,9 @@
+Building BartCoin
+
+See doc/readme-qt.rst for instructions on building BartCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BartCoin.
+
+See doc/build-*.txt for instructions on building BartCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BartCoin.
